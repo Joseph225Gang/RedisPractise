@@ -1,0 +1,6 @@
+D:\c sharp\Visual Studio 2015\RedisPractise\RedisPractise\bin\Debug\RedisPractise.exe.config
+D:\c sharp\Visual Studio 2015\RedisPractise\RedisPractise\bin\Debug\RedisPractise.exe
+D:\c sharp\Visual Studio 2015\RedisPractise\RedisPractise\bin\Debug\RedisPractise.pdb
+D:\c sharp\Visual Studio 2015\RedisPractise\RedisPractise\obj\Debug\RedisPractise.csprojResolveAssemblyReference.cache
+D:\c sharp\Visual Studio 2015\RedisPractise\RedisPractise\obj\Debug\RedisPractise.exe
+D:\c sharp\Visual Studio 2015\RedisPractise\RedisPractise\obj\Debug\RedisPractise.pdb
